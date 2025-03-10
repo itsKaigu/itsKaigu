@@ -1,4 +1,4 @@
-# Hi, I'm Kaigu!🎀 
+# Hi! I'm Kaigu🎀 
 ### Full-Stack Developer | Mobile & Web development Enthusiast  
 
 
