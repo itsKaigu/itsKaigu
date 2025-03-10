@@ -3,7 +3,7 @@
 
 
 ### 📌 Projects  
-- **[GlycoSnap](https://github.com/kaigu11/GlycoSnap)** 🍽️ - AI-powered food recognition app  
+- **[GlycoSnap](https://github.com/kaigu11)** 🍽️ - AI-powered food recognition app  
 - **More projects coming soon...**    
 
 
